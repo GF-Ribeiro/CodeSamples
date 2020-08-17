@@ -1,1 +1,0 @@
-Wheighted Random function I created for a game I am developing.
