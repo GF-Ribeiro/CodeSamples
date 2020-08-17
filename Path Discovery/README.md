@@ -6,12 +6,12 @@ This is from my undergraduate thesis project. The idea was to create a pathfindi
 - AIBehaviour is the main controller of the agent
 - AiBrain is responsible for choosing the next node to navigate
 - AiMovent is responsible for moving the agent
-- MappingBehaviour is responsible for charting the nodes surrounding the agent
+- MappingBehaviour is responsible for charting the nodes that surrounds the agent
 
-## Example:
+## Examples:
 ![Path Discovery](Example1.gif)
 
 ![Path Discovery](Example2.gif)
 
-
+## My Thesis
 I also added my undergraduate thesis (Path Discovery), unfortunately, it is available only in Portuguese.
